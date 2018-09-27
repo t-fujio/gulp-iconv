@@ -18,6 +18,7 @@
     "gulp-coffee": "^2.2.0",
     "gulp-mocha": "^1.1.1",
     "istanbul": "^0.3.2",
+    "jconv": "^0.1.5",
     "mocha": "^1.21.4",
     "mocha-lcov-reporter": "0.0.1"
   },
